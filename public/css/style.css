@@ -1,0 +1,8 @@
+.mynavbar{
+    background-color: aqua;
+    color:black;
+}
+
+.navbar-expand-sm .navbar-collapse {
+    flex-direction: row-reverse;
+}
