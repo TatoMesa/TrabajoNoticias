@@ -35,7 +35,7 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-              <a class="nav-link active" aria-current="page" href="#">Home</a>
+              <a class="nav-link" aria-current="page" href="#">Home</a>
               <a class="nav-link" href="#">Categorias</a>
               <a class="nav-link" href="#">Iniciar Sesión</a>
               <a class="nav-link" href="#">Cerrar Sesión</a>
