@@ -16,11 +16,7 @@ use App\Http\Controllers\NoticiaController;
 */
 
 Route::get('/', function () {
-<<<<<<< HEAD:routes/web.php
     return view('welcome');
-=======
-    return view('noticia/index');
->>>>>>> 6b8de6f06b5b8d65d547fb4158473ad5da0b5007:Rutas/web.php
 });
 
 Route::resource('noticia',NoticiaController::class);
