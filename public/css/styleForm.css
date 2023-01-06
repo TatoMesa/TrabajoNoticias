@@ -1,0 +1,25 @@
+@import url("vars.css");
+
+body{
+    padding:30px;
+}
+
+.form-Noticias{
+    padding: 30px;
+}
+
+h3{
+    padding: 15px;
+    background-color: var(--primario);
+    color: var(--destacado);
+}
+
+.mb-3{
+    background-color: var(--destacado);
+    color: var(--textoPlano);
+}
+
+.input-group-text{
+    background-color: var(---destacado);
+    color: var(--textoPlano); 
+}

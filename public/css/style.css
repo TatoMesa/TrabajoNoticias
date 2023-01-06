@@ -1,22 +1,21 @@
+@import url("vars.css");
 
-:root {
-    --primario: #7a2626;
-    --texto: #44ad2f;
-    
-  
-  }
 h1{
-    color: var(--texto);
+    background-color: var(--primario);
+    color: var(--destacado);
+    padding: 10px;
+    margin-left: 20px;
 }
 
 .mynavbar{
-    background-color: var(--primario);
+    background-color: var(--destacado);
     
    
 }
 
 .nav-link {
     color: var(--texto);
+    font-size: large;
 }
 
 .navbar-expand-sm .navbar-collapse {
